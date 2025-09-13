@@ -29,21 +29,6 @@ Bu repo; **JS DOM** kullanarak, tek bir `index.js` dosyası üzerinden HTML belg
 
 > **Not:** Tüm değişiklikler **sadece** `index.js` içinde yapılmalıdır.
 
----
-
-## ⚙️ Çalıştırma
-
-1. Bu projeyi klonlayın veya indirin.
-2. Bir HTTP sunucusu kullanın **ya da** `index.html` dosyasını doğrudan tarayıcıda açın.
-
-   * Hızlı bir yerel sunucu için (opsiyonel):
-
-     ```bash
-     # Python 3
-     python -m http.server 5500
-     # sonra tarayıcıda: http://localhost:5500/
-     ```
-3. Arayüzdeki metinler ve resimler JS aracılığıyla yüklenecektir.
 
 ---
 
